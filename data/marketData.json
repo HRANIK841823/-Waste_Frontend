@@ -1,0 +1,92 @@
+[
+  {
+    "id": "1",
+    "name": "Vintage Wooden Chair",
+    "price": "$15",
+    "location": "2 mi away",
+    "category": "Furniture",
+    "image": "https://images.unsplash.com/photo-1649003366476-2d968f76d37a?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&q=80&w=687",
+    "description": "A beautifully crafted vintage wooden chair, perfect for your living room or office space. Sturdy, comfortable, and adds a rustic charm."
+  },
+  {
+    "id": "2",
+    "name": "Classic Floor Lamp",
+    "price": "Free",
+    "location": "Brooklyn, NY",
+    "category": "Electronics",
+    "image": "https://images.unsplash.com/photo-1571406487954-dc11b0c0767d?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&q=80&w=687",
+    "description": "A stylish floor lamp with adjustable brightness. Ideal for cozy reading corners or to enhance home decor."
+  },
+  {
+    "id": "3",
+    "name": "Hardly-used Bicycle",
+    "price": "$50",
+    "location": "5 mi away",
+    "category": "Electronics",
+    "image": "https://images.unsplash.com/photo-1650520891905-d63e12c1be26?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&q=80&w=685",
+    "description": "A gently used bicycle in excellent condition. Smooth ride, perfect for daily commuting or weekend adventures."
+  },
+  {
+    "id": "4",
+    "name": "Set of Novels",
+    "price": "$10",
+    "location": "Manhattan, NY",
+    "category": "Books",
+    "image": "https://images.unsplash.com/photo-1592862565998-5489bf6aa2c3?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MjZ8fFNldCUyMG9mJTIwTm92ZWxzfGVufDB8fDB8fHww&auto=format&fit=crop&q=60&w=600",
+    "description": "A curated set of popular novels, perfect for book lovers. All books are in good condition and ready to read."
+  },
+  {
+    "id": "5",
+    "name": "Ceramic Plant Pot",
+    "price": "Free",
+    "location": "1 mi away",
+    "category": "Home Decor",
+    "image": "https://images.unsplash.com/photo-1708368952731-db40e6a86d21?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&q=80&w=1171",
+    "description": "A simple and elegant ceramic plant pot, perfect for indoor plants. Adds a touch of style to any corner."
+  },
+  {
+    "id": "6",
+    "name": "Retro Toaster",
+    "price": "$5",
+    "location": "Queens, NY",
+    "category": "Electronics",
+    "image": "https://images.unsplash.com/photo-1738898101611-2a9a3d4c75b5?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&q=80&w=1170",
+    "description": "A retro-style toaster in working condition. Perfect for quick breakfasts and adds vintage vibes to your kitchen."
+  },
+  {
+    "id": "7",
+    "name": "Comfortable Sofa",
+    "price": "$120",
+    "location": "Brooklyn, NY",
+    "category": "Furniture",
+    "image": "https://images.unsplash.com/photo-1561087461-a3be1aeab78f?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&q=80&w=1170",
+    "description": "A plush and comfortable sofa, perfect for living rooms. Comes with cushions and is in excellent condition."
+  },
+  {
+    "id": "8",
+    "name": "Winter Jacket",
+    "price": "$25",
+    "location": "3 mi away",
+    "category": "Clothing",
+    "image": "https://images.unsplash.com/photo-1649937408746-4d2f603f91c8?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&q=80&w=926",
+    "description": "A warm winter jacket, suitable for cold weather. Stylish, lightweight, and in great condition."
+  },
+  {
+    "id": "9",
+    "name": "Kids Toy Set",
+    "price": "$8",
+    "location": "Bronx, NY",
+    "category": "Toys",
+    "image": "https://images.unsplash.com/photo-1637667798459-0c3276ca3033?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8OHx8S2lkcyUyMFRveSUyMFNldHxlbnwwfHwwfHx8MA%3D%3D&auto=format&fit=crop&q=60&w=600",
+    "description": "A fun and colorful toy set for kids. Safe, durable, and hours of entertainment guaranteed."
+  },
+  {
+    "id": "10",
+    "name": "Kitchen Mixer",
+    "price": "$30",
+    "location": "New York, NY",
+    "category": "Appliances",
+    "image": "https://images.unsplash.com/photo-1708673740591-8a65606dd192?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&q=80&w=910",
+    "description": "A versatile kitchen mixer, perfect for baking and cooking. Works like new and adds convenience to your kitchen."
+  }
+]
