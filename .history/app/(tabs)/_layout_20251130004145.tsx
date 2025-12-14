@@ -14,7 +14,7 @@ export default function TabLayout() {
         tabBarButton: HapticTab,
       }}
     >
-
+      
 
       {/* 🛒 Marketplace Tab */}
       <Tabs.Screen
@@ -57,13 +57,13 @@ export default function TabLayout() {
         options={{
           title: "About",
           tabBarIcon: ({ color }) => (
-            // Recommended: The standard, professional icon for 'About'
-            <Ionicons size={28} name="information-circle-outline" color={color} />
+            // ✅ Used Ionicons with standard name 'create' (for pencil/edit)
+            <Ionicons size={28} name="create" color={color} />
           ),
         }}
       />
 
-
+     
     </Tabs>
   );
 }
