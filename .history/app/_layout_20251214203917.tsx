@@ -40,8 +40,13 @@ import { QueryClient, QueryClientProvider } from '@tanstack/react-query';
 import { Slot } from 'expo-router';
 import { StatusBar } from 'expo-status-bar';
 import React from 'react';
+import 'react-native-reanimated';
 
 const queryClient = new QueryClient();
+
+export const unstable_settings = {
+  initialRouteName: 'start',
+};
 
 export default function RootLayout() {
   const colorScheme = useColorScheme();
@@ -49,7 +54,8 @@ export default function RootLayout() {
   return (
     <QueryClientProvider client={queryClient}>
       <ThemeProvider value={colorScheme === 'dark' ? DarkTheme : DefaultTheme}>
-        <Slot />   {/* ✅ Must render Slot */}
+        {/* ✅ Render Slot instead of Stack directly */}
+        <Slot /> 
         <StatusBar style="auto" />
       </ThemeProvider>
     </QueryClientProvider>
